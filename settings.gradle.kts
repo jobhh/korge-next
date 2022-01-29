@@ -55,6 +55,8 @@ include(":korge-gradle-plugin")
 //include(":tensork")
 //include(":samples:parallax-scrolling-aseprite")
 //include(":samples:tiled-background")
+//include(":samples:ase-animations")
+include(":samples:fleks-ecs")
 
 if (!inCI) {
     include(":korge-sandbox")
